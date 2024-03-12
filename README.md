@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Nicolas Nievas
 
-Buenos Aires, Argentina 🌎
+Córdoba, Argentina 🌎
 
 # About me
 
