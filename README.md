@@ -6,10 +6,10 @@
 
 <h2>👨‍💻 About Me : </h2>
 
-- 📝 I work as a full stack web developer
+- 📝 I work as a full stack web developer.
 - 📫 How to reach me **nicoonievas7@gmail.com**
-- 🔭 I’m currently working on: My portfolio, improving my English skills and learning about more technologies
-- 🌱 I’m currently learning wordpress
+- 🔭 I’m currently working on: My portfolio, improving my English skills and learning about more technologies.
+- 🌱 I’m currently learning wordpress and python.
   
 - [LinkedIn](https://www.linkedin.com/in/nievas-nicolas/)
 - <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" style="width: 100px; height: 30px; margin-left: 5px;" />
@@ -30,8 +30,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="60" height="60"/>
       </div>
 </div> 
-
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 <!--
 **NicolasNievas/NicolasNievas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
