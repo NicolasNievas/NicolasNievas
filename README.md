@@ -1,10 +1,9 @@
-#                            Hi there 👋 I'm Nicolas Nievas
-
+<div id="header" align="center">
+    <h1 align="center">Hi 👋, I'm Nicolas Nievas</h1>
+    <h3 align="center">I am a passionate fullstack developer with a preference in the back-end area from Córdoba, Argentina 🌎. I continue learning to improve myself day by day</h3>
+</div>
 Córdoba, Argentina 🌎
 
-# About me
-
-I am a fullstack developer with a preference in the back-end area. Currently, I continue learning to improve myself day by day.
 
 - [LinkedIn](https://www.linkedin.com/in/nievas-nicolas/)
 
