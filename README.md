@@ -30,6 +30,8 @@
       </div>
 </div> 
 
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
 <!--
 **NicolasNievas/NicolasNievas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
