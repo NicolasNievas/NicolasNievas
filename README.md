@@ -9,6 +9,8 @@
 - 📝 I work as a full stack web developer
 
 - 📫 How to reach me **nicoonievas7@gmail.com**
+- 🌱 I’m currently learning wordpress
+  
 - [LinkedIn](https://www.linkedin.com/in/nievas-nicolas/)
 
 <!--
