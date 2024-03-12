@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Nicolas Nievas
 
+# I am a fullstack developer with a preference in the back-end area. Currently, I continue learning to improve myself day by day.
 <!--
 **NicolasNievas/NicolasNievas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
