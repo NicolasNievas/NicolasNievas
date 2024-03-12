@@ -7,7 +7,7 @@
 <h2>👨‍💻 About Me : </h2>
 
 - 📝 I work as a full stack web developer
-
+- 🔭 I’m currently working on: My portfolio, improving my English skills and learning about more technologies
 - 📫 How to reach me **nicoonievas7@gmail.com**
 - 🌱 I’m currently learning wordpress
   
