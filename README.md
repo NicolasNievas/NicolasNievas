@@ -4,7 +4,7 @@
     <h3 align="center">I continue learning to improve myself day by day.</h3>
 </div>
 
-### 👨‍💻 About Me :
+<h2>👨‍💻 About Me : </h2>
 
 - 📝 I work as a full stack web developer
 
