@@ -1,6 +1,7 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Nicolas Nievas</h1>
-    <h3 align="center">I am a passionate fullstack developer with a preference in the back-end area from Córdoba, Argentina 🌎. I continue learning to improve myself day by day</h3>
+    <h3 align="center">I am a passionate fullstack developer with a preference in the back-end area from Córdoba, Argentina 🌎.</h3>
+    <h3 align="center">I continue learning to improve myself day by day.</h3>
 </div>
 Córdoba, Argentina 🌎
 
