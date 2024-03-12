@@ -3,7 +3,7 @@
     <h3 align="center">I am a passionate fullstack developer with a preference in the back-end area from Córdoba, Argentina 🌎.</h3>
     <h3 align="center">I continue learning to improve myself day by day.</h3>
 </div>
-Córdoba, Argentina 🌎
+- Córdoba, Argentina 🌎
 
 
 - [LinkedIn](https://www.linkedin.com/in/nievas-nicolas/)
