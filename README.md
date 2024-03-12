@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Nicolas Nievas
+# Hi there 👋 I'm Nicolas Nievas
+
+Buenos Aires, Argentina 🌎
 
 # About me
 
