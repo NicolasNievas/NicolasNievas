@@ -10,7 +10,6 @@
 - 📫 How to reach me **nicoonievas7@gmail.com**
 - 🔭 I’m currently working on: My portfolio, improving my English skills and learning about more technologies.
 - 🌱 I’m currently learning wordpress and python.
-- [LinkedIn](https://www.linkedin.com/in/nievas-nicolas/)
   
 <div align="left">
     <h2>🔨 Languages and Tools:</h2>
