@@ -15,12 +15,11 @@
 <h2>👨‍💻 About Me : </h2>
 
 - 📝 I work as a full stack web developer.
-- 📫 How to reach me **nicoonievas7@gmail.com**
 - 🔭 I’m currently working on: My portfolio, improving my English skills and learning about more technologies.
 - 🌱 I’m currently learning wordpress and react.
   
 <div align="left">
-    <h2>🔨 Languages and Tools:</h2>
+    <h2>🔨⚒️ Languages and Tools🔨⚒️</h2>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
