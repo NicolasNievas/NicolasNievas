@@ -16,7 +16,7 @@
 
 - 📝 I work as a full stack web developer.
 - 🔭 I’m currently working on: My portfolio, improving my English skills and learning about more technologies.
-- 🌱 I’m currently learning wordpress and react.
+- 🌱 I’m currently learning wordpress.
   
 <div align="left">
     <h2>🔨⚒️ Languages and Tools🔨⚒️</h2>
