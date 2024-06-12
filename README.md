@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1 align="center">Hi 👋, I'm Nicolas Nievas</h1>
+    <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Nicolas Nievas</h1>
     <h3 align="center">I am a passionate fullstack developer from Córdoba, Argentina 🌎.</h3>
     <h3 align="center">I continue learning to improve myself day by day.</h3>
     <div align="center"> 
