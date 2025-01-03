@@ -17,8 +17,12 @@
 <h2>👨‍💻 About Me : </h2>
 
 - 📝 I develop full-stack software solutions, including front-end and back-end development, database management, and deploying projects to the web. My most recent project is a coffee eCommerce platform, built as the final project for my degree.
-- 🔭 I’m currently working on: My portfolio, improving my English skills and learning about more technologies.
-- 🎓 I am a student pursuing an Associate Degree in Programming and am currently completing my studies. I am expanding my knowledge in both front-end and back-end development. I am passionate about learning and creating new, productive, innovative, and creative solutions.
+- 🔭 **Currently Working On:**  
+   My portfolio, improving my English skills, and learning new technologies.
+- 🎓 **Academic Background:**  
+   Pursuing an Associate Degree in Programming, currently completing my studies.
+- 🛠️ **Skills in Action:**  
+   Developing a full-stack coffee eCommerce platform as my final degree project.
 - 🌱 I’m currently learning ...
   - wordpress
 
@@ -49,14 +53,15 @@
 #### Databases:
 <div aling="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLServer" **alt="SQLServer" width="60" height="60"/>
 </div>
 
 #### Tools & Others:
 <div aling="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="60" height="60"/>
 </div>
 
 
@@ -91,7 +96,6 @@
 
 <!--
 **NicolasNievas/NicolasNievas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -109,6 +113,18 @@ Here are some ideas to get you started:
         stats
         ![](https://github-readme-streak-stats.herokuapp.com/?user=NicolasNievas&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api?username=NicolasNievas&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
+
+--
+
+About 
+
+- 🔭 **Currently Working On:**  
+   My portfolio, improving my English skills, and learning new technologies.  
+- 🎓 **Academic Background:**  
+   Pursuing an Associate Degree in Programming, currently completing my studies.  
+- 🛠️ **Skills in Action:**  
+   Developing a full-stack coffee eCommerce platform as my final degree project.
+- 🎓 I am a student pursuing an Associate Degree in Programming and am currently completing my studies. I am expanding my knowledge in both front-end and back-end development. I am passionate about learning and creating new, productive, innovative, and creative solutions.
 
 ------
 
