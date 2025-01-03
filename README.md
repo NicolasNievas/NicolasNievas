@@ -18,6 +18,7 @@
 
 - 📝 I develop full-stack software solutions, including front-end and back-end development, database management, and deploying projects to the web. My most recent project is a coffee eCommerce platform, built as the final project for my degree.
 - 🔭 I’m currently working on: My portfolio, improving my English skills and learning about more technologies.
+- 🎓 I am a student pursuing an Associate Degree in Programming and am currently completing my studies. I am expanding my knowledge in both front-end and back-end development. I am passionate about learning and creating new, productive, innovative, and creative solutions.
 - 🌱 I’m currently learning ...
   - wordpress
 
