@@ -54,9 +54,29 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=NicolasNievas&theme=dark&hide_border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=NicolasNievas&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasNievas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=NicolasNievas&theme=dark&hide_border=false">
+    </td>
+    <td>
+      <img src="https://camo.githubusercontent.com/6815d8d1c4dd62b5e9c34011a5c976edfc2bcf8f39b343547f2dc427af195067/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4e69636f6c61734e6965766173267468656d653d6461726b26686964655f626f726465723d66616c7365">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasNievas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    </td>
+  </tr>
+</table>
+
+
+
+## 🚀 Featured Projects:
+
+- **[Coffee eCommerce Platform](https://github.com/NicolasNievas/Tesis-UTN)**  
+  A web platform for selling coffee online. Built with React, Spring Boot, PostgreSQL, and Docker.
+
 
     
 
