@@ -50,6 +50,15 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
     </div>
 </div>
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=NicolasNievas&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/NicolasNievas)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=NicolasNievas&theme=material-palenight)](https://github.com/NicolasNievas)
+
+
+
 <!--
 **NicolasNievas/NicolasNievas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
