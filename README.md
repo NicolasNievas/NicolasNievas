@@ -18,12 +18,15 @@
 
 - 📝 I work as a full stack web developer.
 - 🔭 I’m currently working on: My portfolio, improving my English skills and learning about more technologies.
-- 🌱 I’m currently learning wordpress.
+- 🌱 I’m currently learning ...
+  - wordpress
 
----
+
+
+## My Skills Include
   
 <div align="left">
-    <h2>🔨⚒️ Languages and Tools🔨⚒️</h2>
+    <h4>Languages </h4>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="60" height="60"/>&nbsp;
@@ -39,6 +42,13 @@
       </div>
 </div> 
 
+<div aling="left">
+    <h4> Other Tools and Technologies</h4>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
+    </div>
+</div>
 <!--
 **NicolasNievas/NicolasNievas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -52,4 +62,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+  
 -->
