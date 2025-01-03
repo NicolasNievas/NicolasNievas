@@ -51,12 +51,14 @@
     </div>
 </div>
 
-<h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=NicolasNievas&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/NicolasNievas)
+# 📊 GitHub Stats:
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=NicolasNievas&theme=material-palenight)](https://github.com/NicolasNievas)
+![](https://github-readme-stats.vercel.app/api?username=NicolasNievas&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=NicolasNievas&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasNievas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+    
 
 
 <!--
@@ -75,5 +77,10 @@ Here are some ideas to get you started:
   
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+
+        stats
+        ![](https://github-readme-streak-stats.herokuapp.com/?user=NicolasNievas&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=NicolasNievas&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
+
   
 -->
