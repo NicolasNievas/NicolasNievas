@@ -16,7 +16,7 @@
 
 <h2>👨‍💻 About Me : </h2>
 
-- 📝 I work as a full stack web developer.
+- 📝 I develop full-stack software solutions, including front-end and back-end development, database management, and deploying projects to the web. My most recent project is a coffee eCommerce platform, built as the final project for my degree.
 - 🔭 I’m currently working on: My portfolio, improving my English skills and learning about more technologies.
 - 🌱 I’m currently learning ...
   - wordpress
