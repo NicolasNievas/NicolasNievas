@@ -13,8 +13,10 @@
 </div>
 
 ---
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=NicolasNievas&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-<h2>👨‍💻 About Me : </h2>
+<h2>👨‍💻 About Me : </h2> 
+
 
 - 📝 I develop full-stack software solutions, including front-end and back-end development, database management, and deploying projects to the web. My most recent project is a coffee eCommerce platform, built as the final project for my degree.
 - 🔭 **Currently Working On:**  
@@ -32,38 +34,43 @@
 
 #### Programming Languages:
 <div aling="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Csharp" alt="Csharp" width="60" height="60"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Csharp" alt="Csharp" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="80" height="80"/>
 </div>
 
 #### Front-End Frameworks:
 <div aling="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="60" height="60"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" **alt="NextJs" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" **alt="NextJs" width="80" height="80"/>
 </div>
 
 #### Back-End Frameworks:
 <div aling="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="80" height="80"/>
 </div>
 
 #### Databases:
 <div aling="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLServer" **alt="SQLServer" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLServer" **alt="SQLServer" width="80" height="80"/>
 </div>
 
 #### Tools & Others:
 <div aling="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="80" height="80"/>
 </div>
 
+#### Used IDE´s
+<div aling="left">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="80" height="80"/>&nbsp;
+</div>
 
 # 📊 GitHub Stats:
 
@@ -91,13 +98,6 @@
   A web platform for selling coffee online. Built with React, Spring Boot, PostgreSQL, and Docker.
 
 
-    <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NicolasNievas}/count.svg" /></p> 
-<br>
-</div>
-
 
 <!--
 **NicolasNievas/NicolasNievas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -118,6 +118,15 @@ Here are some ideas to get you started:
         stats
         ![](https://github-readme-streak-stats.herokuapp.com/?user=NicolasNievas&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api?username=NicolasNievas&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
+
+Stats Pro
+<a href="https://github.com/bindian0509/NicolasNievas">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicolasNievas&theme=gruvbox&hide_border=true)](https://github.com/NicolasNievas" alt="Bharat's GitHub Stats Graph"/>
+</a>
+<br><br>
+<a href="https://github.com/bindian0509/bindian0509">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NicolasNievas&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
+</a>
 
 --
 
@@ -156,6 +165,16 @@ About
         <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>
     </div>
+</div>
+
+----------
+
+Visitors 
+    <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NicolasNievas}/count.svg" /></p> 
+<br>
 </div>
 
   
