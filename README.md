@@ -83,8 +83,10 @@
 
 ## 🚀 Featured Projects:
 
-- **[Coffee eCommerce Platform](https://github.com/NicolasNievas/Tesis-UTN)**  
-  A web platform for selling coffee online. Built with React, Spring Boot, PostgreSQL, and Docker.
+- **Coffee eCommerce Platform**  
+  A web platform for selling coffee online. Built with React, Spring Boot, PostgreSQL, and Docker.  
+  - 🌐 [Live Demo](https://coffe-craze.vercel.app)  
+  - 📂 [Source Code](https://github.com/NicolasNievas/Tesis-UTN)
 
 
 
